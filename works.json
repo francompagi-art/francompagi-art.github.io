@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "title": "Retiree Study I",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-01.webp",
+    "thumb": "assets/thumb-01.webp",
+    "w": 1800,
+    "h": 1355
+  },
+  {
+    "id": 2,
+    "title": "Saxophonist — Fragmented Study",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-02.webp",
+    "thumb": "assets/thumb-02.webp",
+    "w": 659,
+    "h": 898
+  },
+  {
+    "id": 15,
+    "title": "Retiree Study II",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-15.webp",
+    "thumb": "assets/thumb-15.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 4,
+    "title": "The Village Choir",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-04.webp",
+    "thumb": "assets/thumb-04.webp",
+    "w": 1800,
+    "h": 1156
+  },
+  {
+    "id": 3,
+    "title": "Psalm 23 — Study 01",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-03.webp",
+    "thumb": "assets/thumb-03.webp",
+    "w": 1448,
+    "h": 2048
+  },
+  {
+    "id": 6,
+    "title": "Downtown Kampala",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-06.webp",
+    "thumb": "assets/thumb-06.webp",
+    "w": 1800,
+    "h": 1239
+  },
+  {
+    "id": 16,
+    "title": "Retiree Study III",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-16.webp",
+    "thumb": "assets/thumb-16.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 8,
+    "title": "Karamajong Drummer Boys",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "Ballpoint pen · 160 × 120 cm · 2017",
+    "src": "assets/work-08.webp",
+    "thumb": "assets/thumb-08.webp",
+    "w": 1800,
+    "h": 1159
+  },
+  {
+    "id": 17,
+    "title": "Retiree Study IV",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-17.webp",
+    "thumb": "assets/thumb-17.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 9,
+    "title": "Village Elders",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-09.webp",
+    "thumb": "assets/thumb-09.webp",
+    "w": 2048,
+    "h": 1536
+  },
+  {
+    "id": 18,
+    "title": "Street in Colour I",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-18.webp",
+    "thumb": "assets/thumb-18.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 11,
+    "title": "Untitled (Portrait)",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-11.webp",
+    "thumb": "assets/thumb-11.webp",
+    "w": 1536,
+    "h": 1325
+  },
+  {
+    "id": 19,
+    "title": "Street in Colour II",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-19.webp",
+    "thumb": "assets/thumb-19.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 10,
+    "title": "Psalm 23 — Study 04",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-10.webp",
+    "thumb": "assets/thumb-10.webp",
+    "w": 1448,
+    "h": 2048
+  },
+  {
+    "id": 20,
+    "title": "Psalm 23 — Study 06",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-20.webp",
+    "thumb": "assets/thumb-20.webp",
+    "w": 1536,
+    "h": 878
+  },
+  {
+    "id": 5,
+    "title": "Psalm 23 — Study 02",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-05.webp",
+    "thumb": "assets/thumb-05.webp",
+    "w": 1800,
+    "h": 1350
+  },
+  {
+    "id": 21,
+    "title": "Street in Colour III",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-21.webp",
+    "thumb": "assets/thumb-21.webp",
+    "w": 1536,
+    "h": 1157
+  },
+  {
+    "id": 7,
+    "title": "Psalm 23 — Study 03",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-07.webp",
+    "thumb": "assets/thumb-07.webp",
+    "w": 1024,
+    "h": 1792
+  },
+  {
+    "id": 22,
+    "title": "Untitled (Street Study)",
+    "category": "Drawings",
+    "group": "drawings",
+    "description": "",
+    "src": "assets/work-22.webp",
+    "thumb": "assets/thumb-22.webp",
+    "w": 1536,
+    "h": 970
+  },
+  {
+    "id": 12,
+    "title": "Landscape in Colour",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-12.webp",
+    "thumb": "assets/thumb-12.webp",
+    "w": 1800,
+    "h": 1800
+  },
+  {
+    "id": 14,
+    "title": "Psalm 23 — Study 05",
+    "category": "Colour works",
+    "group": "colour",
+    "description": "",
+    "src": "assets/work-14.webp",
+    "thumb": "assets/thumb-14.webp",
+    "w": 1170,
+    "h": 2048
+  }
+]
